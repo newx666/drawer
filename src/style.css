@@ -4,5 +4,8 @@
 
 #app .program {
     float: right;
+}
+
+#app .program textarea {
     resize: none;
 }
