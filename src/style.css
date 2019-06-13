@@ -1,0 +1,8 @@
+#app canvas {
+    border: 1px red solid;
+}
+
+#app .program {
+    float: right;
+    resize: none;
+}
