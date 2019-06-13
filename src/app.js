@@ -240,4 +240,9 @@ codeButtons.run.addEventListener('click', () => {
     drawer.runProgram();
 });
 
+codeButtons.clear.addEventListener('click', () => {
+    clearTextarea(textarea);
+});
+
+
 drawer.executeCommand('reset');
